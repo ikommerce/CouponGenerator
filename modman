@@ -1,0 +1,14 @@
+LICENSE LICENSE
+app/etc/modules/Needle_CouponGenerator.xml app/etc/modules/Needle_CouponGenerator.xml
+app/code/local/Needle/CouponGenerator/etc/config.xml app/code/local/Needle/CouponGenerator/etc/config.xml
+app/code/local/Needle/CouponGenerator/etc/api.xml app/code/local/Needle/CouponGenerator/etc/api.xml
+app/code/local/Needle/CouponGenerator/Block/Admin/Main.php app/code/local/Needle/CouponGenerator/Block/Admin/Main.php
+app/code/local/Needle/CouponGenerator/Block/Admin/New.php app/code/local/Needle/CouponGenerator/Block/Admin/New.php
+app/code/local/Needle/CouponGenerator/Block/Admin/Main/Grid.php app/code/local/Needle/CouponGenerator/Block/Admin/Main/Grid.php
+app/code/local/Needle/CouponGenerator/Block/Admin/New/Form.php app/code/local/Needle/CouponGenerator/Block/Admin/New/Form.php
+app/code/local/Needle/CouponGenerator/Model/Api.php app/code/local/Needle/CouponGenerator/Model/Api.php
+app/code/local/Needle/CouponGenerator/Helper/Data.php app/code/local/Needle/CouponGenerator/Helper/Data.php
+app/code/local/Needle/CouponGenerator/controllers/AdminController.php app/code/local/Needle/CouponGenerator/controllers/AdminController.php
+app/design/adminhtml/default/default/template/coupongenerator/new/js.phtml app/design/adminhtml/default/default/template/coupongenerator/new/js.phtml
+app/design/adminhtml/default/default/layout/coupongenerator.xml app/design/adminhtml/default/default/layout/coupongenerator.xml
+js/needle/needle.js js/needle/needle.js
